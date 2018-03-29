@@ -1,0 +1,1 @@
+E:\myWorkPrograms\ArduinoPiano\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
